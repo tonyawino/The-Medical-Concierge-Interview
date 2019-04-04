@@ -19,7 +19,7 @@ This folder contains 7 files:
 
 ## Running the application
 
-You need python installed on your computermv
+You need python installed on your computer
 
 To run the web application type `python main.py`
 The application will be accessed from [localhost:8082](http://localhost:8082) in your browser
